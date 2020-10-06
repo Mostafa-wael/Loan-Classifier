@@ -1,5 +1,5 @@
 # Loan-Classifier
-A machine leaning bases loaan classifier using many classification techniques such as: 
+A machine leaning based loaan classifier using many classification techniques such as: 
 - K Nearest Neighbor(KNN)
 - Decision Tree
 - Support Vector Machine
