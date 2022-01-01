@@ -11,4 +11,5 @@ the notebook uses all the previous techniques trying to find the best parameters
 - log loss
 
 this project serves as the final project in the " machine learning with python" course by IBM
+
 course's link: https://www.coursera.org/learn/machine-learning-with-python/home/welcome
